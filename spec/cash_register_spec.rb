@@ -88,4 +88,3 @@ describe 'CashRegister' do
     end
   end
 end
-
